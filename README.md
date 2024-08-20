@@ -1,5 +1,5 @@
 # GitHubComparisonCharts
-This repository contains the dataset used in the paper "A Hybrid Keyword-Driven Rule-Based Approach for Automatic Generation of Comparison Charts of GitHub Repositories"
+This repository contains the dataset used in the paper "A Hybrid Keyword-Driven Rule-Based Approach for Automatic Generation of Comparison Charts of GitHub Repositories", submitted for acceptance to MDPI's Applied Sciences journal.
 
 The dataset is collected from 283 readme files obtained from GitHub repositories. To ensure diverse coverage of repositories, we retrieve repositories whose primary programming language is Java, JavaScript, C#, Python, or C++. We obtain the readme files of the top 100 repositories for each of these languages, where the results are sorted in descending order based on repository stars. Then, we filter the results by including only the repositories with readme files written in English and exceeding 1000 bytes. These filtering rules aim to include only mature repositories with high stars, which increases the likelihood of obtaining well-written readme files. 
 
