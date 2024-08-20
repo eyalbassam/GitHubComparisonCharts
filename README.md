@@ -6,7 +6,7 @@ The dataset is collected from 283 readme files obtained from GitHub repositories
 The following table shows the number of instances in the dataset, grouped by programming language.
 
 |Language   |No. of Instances|Class     |Pct. |
-|...........|................|..........|.....|
+|-----------|----------------|----------|-----|
 |Java       | 617            |Training  |13.5%|
 |JavaScript | 1112           |Training  |24.3%|
 |C#         | 977            |Training  |21.3%|
